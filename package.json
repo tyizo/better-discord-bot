@@ -1,5 +1,5 @@
 {
-  "name": "fnr-assaist",
+  "name": "tyizo",
   "version": "1.0.0",
   "description": "Bot for developing",
   "main": "index.js",
@@ -10,11 +10,8 @@
   "license": "ISC",
   "dependencies": {
     "axios": "^0.21.0",
-    "canvacord": "^5.0.8",
     "discord.js": "^12.4.1",
     "fs": "0.0.1-security",
-    "mongoose": "^5.11.8",
-    "ms": "^2.1.2",
     "nodemailer": "^6.4.16"
   }
 }
