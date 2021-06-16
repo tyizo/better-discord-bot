@@ -25,7 +25,12 @@ module.exports = {
           name: "Total Channels: ",
           value: `${client.channels.cache.size} Channels`,
           inline: true,
-        }
+        },
+        {
+          name: "Get me at: ",
+          value: "[Link](https://github.com/tyizo/better-discord-bot/)",
+          inline: true,
+        },
       );
     await message.channel.send(embed);
   },
