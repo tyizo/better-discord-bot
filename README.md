@@ -5,7 +5,9 @@
 </h1>
 
 A nice discord bot with a lot of useful commands and advanced command handler.
+<br>
 <small>explore the commands by yourself.</small>
+<br>
 - How to run this ?
 <hr>
 First of all, go to 
