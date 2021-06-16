@@ -1,5 +1,7 @@
-# Better Discord Bot
-<h1> Using Discord.js library!</h1>
+<h1>
+  Better Discord Bot
+  Using Discord.js library!
+</h1>
 
 A nice discord bot with a lot of useful commands and advanced command handler.
 
