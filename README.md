@@ -1,5 +1,6 @@
 <h1>
   Better Discord Bot
+  <br>
   Using Discord.js library!
 </h1>
 
