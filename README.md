@@ -5,6 +5,7 @@ A nice discord bot with a lot of useful commands and advanced command handler.
 First of all, go to 
 <a href="https://github.com/tyizo/better-discord-bot/blob/main/config.json">config.json</a> 
 and full these blanks:
+<br>
 
 ```
 {
@@ -14,11 +15,15 @@ and full these blanks:
 }
 
 ```
+<hr>
 
-after that:
+After that:
+<br>
 ```
 1 - git clone https://github.com/tyizo/better-discord-bot/
 2 - npm i
 3 - node .
 ```
+<br>
+<hr>
 <h1 align="center">That's it 🚀</h1>
