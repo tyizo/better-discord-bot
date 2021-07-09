@@ -3,15 +3,12 @@
 Note: All CopyRights go to 
 <a href="https://github.com/FnrDev/">
 FnrDev </a>
-
-I just edited & added some things on his <a href="https://github.com/FnrDev/moderation-discord-bot"> repo </a>
-
-So, Thank you @Fnr !
-
+<br>
+I just edited & added some things on his <a href="https://github.com/FnrDev/moderation-discord-bot"> repo </a> 
+<br>
+So, Thank you @Fnr ! <br>
 Btw check his account he has a cool staff.
- 
 <hr>
-
 <h1>
   Better Discord Bot
   <br>
