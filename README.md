@@ -33,7 +33,7 @@ After that:
 3 - node .
 ```
 
-All CopyRights goes to 
+All CopyRights go to 
 <a href="https://github.com/FnrDev/">
 FnrDev </a>
 
