@@ -1,3 +1,17 @@
+<hr>
+
+Note: All CopyRights go to 
+<a href="https://github.com/FnrDev/">
+FnrDev </a>
+
+I just edited & added some thing on his <a href="https://github.com/FnrDev/moderation-discord-bot"> repo.
+
+So, Thank you @Fnr !
+
+Btw check his account he has a lot of a useful things .. 
+ 
+<hr>
+
 <h1>
   Better Discord Bot
   <br>
@@ -32,14 +46,6 @@ After that:
 2 - npm i
 3 - node .
 ```
-
-All CopyRights go to 
-<a href="https://github.com/FnrDev/">
-FnrDev </a>
-
-I just edited & added some thing on his <a href="https://github.com/FnrDev/moderation-discord-bot"> repo.
-
-
 
 
 
