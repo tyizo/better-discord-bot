@@ -8,7 +8,7 @@ I just edited & added some things on his <a href="https://github.com/FnrDev/mode
 
 So, Thank you @Fnr !
 
-Btw check his account he has a lot of a useful things .. 
+Btw check his account he has a cool staff.
  
 <hr>
 
