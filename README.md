@@ -35,11 +35,9 @@ After that:
 
 All CopyRights goes to <a href=" https://github.com/FnrDev/"> FnrDev , 
 
-I just edited his <a href="https://github.com/FnrDev/moderation-discord-bot"> repo.
+I just edited & added some thing on his <a href="https://github.com/FnrDev/moderation-discord-bot"> repo.
 
-<br>
-<br>
-And added some things.
+
 
 
 
