@@ -33,8 +33,10 @@ After that:
 3 - node .
 ```
 
-All CopyRights goes to <a href=" https://github.com/FnrDev/">
-I just edited his <a href="https://github.com/FnrDev/moderation-discord-bot"> repo
+All CopyRights goes to <a href=" https://github.com/FnrDev/"> FnrDev , 
+
+I just edited his <a href="https://github.com/FnrDev/moderation-discord-bot"> repo 
+And added some things.
 
 
 
