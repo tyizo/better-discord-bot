@@ -4,7 +4,7 @@ Note: All CopyRights go to
 <a href="https://github.com/FnrDev/">
 FnrDev </a>
 
-I just edited & added some thing on his <a href="https://github.com/FnrDev/moderation-discord-bot"> repo </a>
+I just edited & added some things on his <a href="https://github.com/FnrDev/moderation-discord-bot"> repo </a>
 
 So, Thank you @Fnr !
 
