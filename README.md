@@ -32,6 +32,12 @@ After that:
 2 - npm i
 3 - node .
 ```
+
+All CopyRights goes to <a href=" https://github.com/FnrDev/">
+I just edited his <a href="https://github.com/FnrDev/moderation-discord-bot"> repo
+
+
+
 <br>
 <hr>
 <h1 align="center">That's it 🚀</h1>
