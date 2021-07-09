@@ -12,7 +12,7 @@ A nice discord bot with a lot of useful commands and advanced command handler.
 <hr>
 First of all, go to 
 <a href="https://github.com/tyizo/better-discord-bot/blob/main/config.json">config.json</a> 
-and full these blanks:
+and fill these blanks:
 <br>
 
 ```
